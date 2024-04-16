@@ -64,19 +64,13 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 cd nome-do-repositorio
 ```
 
-3. Instale as dependências necessárias:
-
-```bash
-pip install -r requirements.txt
-```
-
-4. Inicie o servidor da API:
+3. Inicie o servidor da API:
 
 ```bash
 python app.py
 ```
 
-5. Acesse a API em `http://localhost:5000`.
+4. Acesse a API em `http://localhost:5000`.
 
 ## Contribuindo
 
